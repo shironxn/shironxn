@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm shiron</h1>
-- 🔭 I’m currently working on [Projek Osis SMAN 48](https://projek-eksix.vercel.app/)
-
 
 <div align="center">
   <img height="" src="https://media.tenor.com/Wfki7pjNXr0AAAAC/mashiro-shiina-stare.gif"  />
