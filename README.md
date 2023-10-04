@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shiron</h1>
+<h1 align="center">I'm shiron</h1>
 
 
 <img src="https://media.tenor.com/uL304yObcWUAAAAC/mashiro-shiina.gif" width="100%"/>
