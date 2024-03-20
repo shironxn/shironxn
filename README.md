@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="150" src="https://i.imgur.com/JrheZmH.gif"  />
 
 ###
