@@ -1,14 +1,24 @@
-<h1 align="center">hey there 👋</h1>
+<div align="center">
+  <img height="200" src="https://i.imgur.com/JrheZmH.gif"  />
+</div>
 
 ###
 
-<br clear="both">
-
-<img align="left" height="150" src="https://i.imgur.com/JrheZmH.gif"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shironxn.shironxn&"  />
+</div>
 
 ###
 
-<p align="left">I'm shiron, a newbie backend developer</p>
+<h1 align="center"></h1>
+
+###
+
+<p align="left">Hello, I'm shiron, a newbie backend developer interest about web development. Currently, I'm immersing myself in the world of backend technologies, particularly focusing on RESTful APIs.</p>
+
+###
+
+<h1 align="center"></h1>
 
 ###
 
@@ -34,9 +44,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=shironxn.shironxn&"  />
+<h1 align="center"></h1>
 
 ###
 
