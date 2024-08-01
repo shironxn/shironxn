@@ -1,44 +1,15 @@
 <div align="center">
-  <img height="200" src="https://i.imgur.com/JrheZmH.gif"  />
+  <img height="100%" src="https://i.imgur.com/JrheZmH.gif"/><br/><br/>
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
-###
+##
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shironxn.shironxn&"  />
+    <p>Hello, I'm shiron, a newbie backend developer interest about web development.</p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
-
-###
-
-<h1 align="center"></h1>
-
-###
-
-<p align="left">Hello, I'm shiron, a newbie backend developer interest about web development. Currently, I'm immersing myself in the world of backend technologies, particularly focusing on RESTful APIs.</p>
-
-###
-
-<h1 align="center"></h1>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-</div>
-
-###
-
-<h1 align="center"></h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shironxn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shironxn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
